@@ -27,6 +27,11 @@ body{
   background-color:#cc6633;
   
 }
+.ImageContainer3{
+  width: 100%; 
+  position: absolute;
+  Margin-top: -35px
+}
 
 
 .container6{
